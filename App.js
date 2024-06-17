@@ -14,12 +14,12 @@ function App() {
         <Stack.Screen 
           name="Login" 
           component={LoginScreen} 
-          options={{ headerShown: false }} // Hide the header for the Login screen
+          options={{ headerShown: false }} 
         />
         <Stack.Screen 
           name="Home" 
           component={HomeScreen} 
-          options={{ headerShown: false }} // Hide the header for the Home screen
+          options={{ headerShown: false }} 
         />
       </Stack.Navigator>
     </NavigationContainer>

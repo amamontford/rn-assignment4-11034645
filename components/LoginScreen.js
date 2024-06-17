@@ -63,27 +63,27 @@ const styles = StyleSheet.create({
     width: '100%',
     alignItems: 'flex-start',
     padding: 20,
-    paddingTop: 60, // Add padding at the top
+    paddingTop: 60, 
   },
   title: {
     fontSize: 24,
     fontWeight: 'bold',
-    color: '#356899', // Change text color to #356899
-    paddingHorizontal: 10, // Add some padding to make it look better
+    color: '#356899', 
+    paddingHorizontal: 10, 
     paddingVertical: 5,
-    borderRadius: 5, // Add some border radius to match the styling
+    borderRadius: 5, 
   },
   subtitle: {
     fontSize: 20,
     marginTop: 10,
     color: '#333',
-    fontWeight: 'bold', // Make Welcome Back bold
+    fontWeight: 'bold', 
   },
   description: {
     fontSize: 16,
     marginTop: 10,
     marginBottom: 20,
-    color: '#AFB0B6', // Change color to #AFB0B6
+    color: '#AFB0B6', 
   },
   input: {
     width: '100%',
@@ -122,31 +122,31 @@ const styles = StyleSheet.create({
   },
   separatorText: {
     marginHorizontal: 10,
-    color: '#AFB0B6', // Change color to #AFB0B6
+    color: '#AFB0B6', 
   },
   imageContainer: {
     flexDirection: 'row',
     justifyContent: 'center',
     alignItems: 'center',
-    width: '100%', // Ensure the container takes the full width
-    marginTop: 10, // Adjust as needed for spacing
+    width: '100%', 
+    marginTop: 10, 
   },
   iconsImage: {
     width: 240, 
     height: 50,
   },
   textContainer: {
-    width: '100%', // Take full width
+    width: '100%', 
     alignItems: 'center',
     justifyContent: 'center',
-    marginTop: 50, // Space between icons and text
+    marginTop: 50, 
   },
   registerText: {
     fontSize: 16,
     color: '#333',
   },
   haventAccountText: {
-    color: '#AFB0B6', // Change color to #AFB0B6
+    color: '#AFB0B6', 
   },
   registerLink: {
     color: '#356899',
