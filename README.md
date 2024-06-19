@@ -26,8 +26,8 @@ This project is a simple job application app built using React Native. Some of t
 
 ### Screenshot Of Application:
 
-![Screenshot of the app](screenshot1.jpg)
-![Screenshot of the app](screenshot2.jpg)
+<img src="screenshot1.jpg" width="250">
+<img src="screenshot2.jpg" width="250">
 
 ### Installation:
 
